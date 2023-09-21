@@ -1,2 +1,2 @@
 # Jarvis-Google-Assistant-Project
-Jarvis AI. simply put, Jarvis AI program respond to your little command with real voice and help you redirect your google. xx to google.com and… simply put, Jarvis AI program respond to your little command with real voice and help you redirect your google.
+Jarvis AI is a Jarvis Program that repond to Human Voice. It analyze the voice of user and then process the it for some seconds, then respond according to the user requirements. This AI has used many libararies being imported from different sources. Everthing has been explaind in the report being provided along the code.
